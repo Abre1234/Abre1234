@@ -1,6 +1,6 @@
 # 👋 Hello, I'm Abraraw Ayal
 
-🎓 I'm a 24-year-old Data Science student at Bahir Dar University, Ethiopia.
+🎓 I'm a 21-year-old Data Science student at Bahir Dar University, Ethiopia.
 
 🌱 I'm currently learning:
 - Machine Learning & Data Analysis
