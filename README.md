@@ -2,7 +2,7 @@
 
 🎓 I'm a 21-year-old Data Science student at Bahir Dar University, Ethiopia.
 
-🌱 I'm currently learning:
+🌱 Skills :
 - Machine Learning & Data Analysis
 - Python, SQL, and R
 - Web Development: HTML, CSS, and JavaScript
