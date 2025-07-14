@@ -1,5 +1,5 @@
 # 👋 Hello, I'm Abraraw Ayal
-#[Portfolio](https://abre1234.github.io/Portfolio2/)
+#[Portfolio]
 
 🎓 I'm a 21-year-old Data Science student at Bahir Dar University, Ethiopia.
 
