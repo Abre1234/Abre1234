@@ -27,10 +27,6 @@ Welcome to my GitHub! I am passionate about **data science, machine learning, de
 
 
 
-## 📈 GitHub Stats
-![Abraraw's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Abre1234&show_icons=true&theme=radical)
-
----
 
 ## 📫 Connect with Me
 - Telegram: [@Abree1234](https://t.me/Abree1234)  
