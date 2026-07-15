@@ -1,16 +1,16 @@
 # Hi there, I'm Abraraw Ayal 👋
-**Data Science Student | Aspiring AI & ML Engineer | Lifelong Learner**
+**Data Science Graduate | Aspiring AI & ML Engineer | Lifelong Learner**
 
 Welcome to my GitHub! I am passionate about **data science, machine learning, deep learning, and AI applications**. I love building projects, analyzing datasets, and sharing my learning journey with the community.
 
 ---
 
 ## 🚀 About Me
-- 🎓 **Student at Bahir Dar University** (4th Year, Data Science)
+
 - 💡 Interested in **Machine Learning, Deep Learning, Computer Vision, NLP, and AI solutions for real-world problems**
 - 📚 Always learning **new skills** and experimenting with datasets, algorithms, and frameworks
 - 🌐 Sharing knowledge through **projects, tutorials, and code samples** on GitHub
-- 🛠️ Currently exploring **traffic congestion detection, optimized routing, and AI for smart cities**
+
 
 ---
 
@@ -37,7 +37,6 @@ Welcome to my GitHub! I am passionate about **data science, machine learning, de
 
 ## 🌱 What I'm Learning
 - Advanced **deep learning architectures** (CNN, RNN, Transformers)  
-- Real-world **AI solutions for traffic and urban planning**  
 - Deployment of **ML models with Flask, Streamlit, and Gradio**  
 - Continuous practice in **Python, SQL, and visualization techniques**  
 
