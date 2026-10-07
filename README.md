@@ -31,7 +31,7 @@ Welcome to my GitHub! I am passionate about **data science, machine learning, de
 ## 📫 Connect with Me
 - Telegram: [@Abree1234](https://t.me/Abree1234)  
 - LinkedIn: [Abraraw Ayal](https://www.linkedin.com/in/Abre1234/)  
-- Portfolio / Projects: [GitHub Profile]([https://abre1234.github.io/Abrar/](https://abre1234.github.io/Abrar/))  
+- Portfolio / Projects: [Profile](https://abre1234.github.io/Abrar/)
 
 ---
 
